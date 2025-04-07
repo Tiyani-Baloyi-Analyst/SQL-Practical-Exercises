@@ -11,3 +11,10 @@ This repository contains multiple SQL exercises completed using Snowflake's clou
 - [Exercise 02 - Joins and Subqueries]
   Uses multiple tables to explore joins and slightly complex SQL logic.
 
+---
+
+## 📌 Tools & Tech
+
+- SQL (Standard)
+- Snowflake Cloud Data Platform
+
