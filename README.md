@@ -5,7 +5,7 @@ This repository contains multiple SQL exercises completed using Snowflake's clou
 
 ## 📂 Exercises
 
-- [Exercise 01 - Retail Sales Analysis]
+- [Exercise 01 - Retail Sales Analysis](retail_sales_dataset.csv)
   Focuses on basic SQL syntax using retail sales data by gender and product category.
 
 - [Exercise 02 - Joins and Subqueries]
