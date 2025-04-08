@@ -7,9 +7,9 @@ This repository contains multiple SQL exercises completed using Snowflake's clou
 
 Focuses on basic SQL syntax using retail sales data by gender and product category.
 
-- [Dataset CSV File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2001/retail_sales_dataset.csv)
-- [Results with Code Snippets](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2001/Practical%20Exercise%201_Tiyani%20Baloyi.pdf) 
-- [Complete SQL Code](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2001/Practical%20Exercise%201.sql) This is the full SQL code completed on Snowflake to address all the objectives of the exercise
+- [Dataset CSV File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2001/retail_sales_dataset.csv) Contains the raw data with all the parameters and dimensions to be used in the exercise. These dimensions include gender, product category and age.
+- [Results with Code Snippets](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2001/Practical%20Exercise%201_Tiyani%20Baloyi.pdf) Shows snippets of the SQL code for each question seperately.
+- [Complete SQL Code](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2001/Practical%20Exercise%201.sql) This is the full SQL code completed on Snowflake to address all the objectives of the exercise.
 
 
 ## 📂 Exercise 02 - Joins and Subqueries
