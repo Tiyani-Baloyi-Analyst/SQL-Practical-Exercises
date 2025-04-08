@@ -18,10 +18,10 @@ Focuses on basic SQL syntax using retail sales data by gender and product catego
   
 - [Objective Description File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2002/Practical%202%20-%20SQL%20Fundamentals%20(SQL%20JOIN).pdf)
 - [Customer Data CSV File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2002/customers_large.csv)
-- [Order Data CSV File]
-- [Product Data CSV File]
-- [Results with Code Snippets File]
-- [Complete SQL Code File]
+- [Order Data CSV File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2002/orders_large.csv)
+- [Product Data CSV File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2002/products_large.csv)
+- [Results with Code Snippets File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2002/Practical%20Exercise%202_Tiyani%20Baloyi.pdf)
+- [Complete SQL Code File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2002/Practical%20Exercise%202.sql)
 
 ---
 
