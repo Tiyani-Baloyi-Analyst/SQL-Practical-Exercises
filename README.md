@@ -8,7 +8,9 @@ This repository contains multiple SQL exercises completed using Snowflake's clou
 Focuses on basic SQL syntax using retail sales data by gender and product category.
 
 - [Exercise 01 - Retail Sales Analysis](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2001/Practical%201%20-%20SQL%20Fundamentals%20(Snowflake-Basic%20SQL%20Syntax).pdf)
-
+- [Dataset CSV file]
+- [Results with code snippets]
+- [Complete SQL code]
 
 ## 📂 Exercise 02 - Joins and Subqueries
 
