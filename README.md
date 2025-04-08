@@ -17,7 +17,7 @@ Focuses on basic SQL syntax using retail sales data by gender and product catego
   Uses multiple tables to explore joins and slightly complex SQL logic.
   
 - [Objective Description File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2002/Practical%202%20-%20SQL%20Fundamentals%20(SQL%20JOIN).pdf)
-- [Customer Data CSV File] 
+- [Customer Data CSV File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2002/customers_large.csv)
 - [Order Data CSV File]
 - [Product Data CSV File]
 - [Results with Code Snippets File]
