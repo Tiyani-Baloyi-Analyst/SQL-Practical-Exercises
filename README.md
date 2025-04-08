@@ -11,7 +11,7 @@ Focuses on basic SQL syntax using retail sales data by gender and product catego
 - [Dataset CSV File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2001/retail_sales_dataset.csv)
 - [Results with Code Snippets](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2001/Practical%20Exercise%201_Tiyani%20Baloyi.pdf)
 - [Complete SQL Code](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2001/Practical%20Exercise%201.sql)
-- [abcd](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2001/Practical%201%20-%20SQL%20Fundamentals%20(Snowflake-Basic%20SQL%20Syntax).pdf)
+
 
 ## 📂 Exercise 02 - Joins and Subqueries
 
