@@ -24,6 +24,16 @@ Focuses on basic SQL syntax using retail sales data by gender and product catego
 - [Results with Code Snippets File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2002/Practical%20Exercise%202_Tiyani%20Baloyi.pdf) Output Results - Shows snippets of the SQL code for each question seperately.
 - [Complete SQL Code File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%2002/Practical%20Exercise%202.sql) Output Code - This is the full SQL code completed on Snowflake to address all the objectives of the exercise.
 
+
+## 📂 Exercise 2.1 - Advanced SQL
+
+Focuses on advanced SQL syntax, and building a strong foundation in basic SQL syntax.
+
+- [Objective Description File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%202.1/BrightLight%20Advanced%20SQL%20Practical%20-NULL%20Functions.pdf) Information File - Details the objectives of the exercise and what has to be executed.
+- [Dataset CSV File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%202.1/shoping_trends.csv) Input Data File - Contains the raw data with all the parameters and dimensions to be used in the exercise.
+- [Complete SQL Code File](https://github.com/Tiyani-Baloyi-Analyst/SQL-Practical-Exercises/blob/main/Exercise%202.1/Practical%20Exercise%202.1.sql) Output Code - This is the full SQL code completed on Snowflake to address all the objectives of the exercise.
+
+
 ---
 
 ## 📌 Tools & Tech
